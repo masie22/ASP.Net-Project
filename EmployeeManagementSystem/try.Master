@@ -1,0 +1,143 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="try.master.cs" Inherits="EmployeeManagementSystem._try" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <%-- bootstrap css --%>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <%-- datatables css --%>
+    <link href="datatables/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <%-- font css --%>
+    <link href="font/css/all.css" rel="stylesheet" />
+
+    <%-- stylesheet css --%>
+    <link href="css/stylesheet.css" rel="stylesheet" />
+
+    <%-- jquery--%>
+    <script src="bootstrap/js/jquery-3.5.1.slim.min.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+ <!--navbar-->
+   <div class="d-flex" id="wrap" >
+       <!--sidebar-->
+       <div class="sidebar border-light" id="sidebarToggle">    
+           <div class="sidebar-heading">
+               <a href="#" class="navbar-brand d-block mx-auto text-center py-3 mb-4" >
+                   <img src="images/ems.png" width ="45" height="45"/> 
+                      <h5> EMSystem </h5>
+               </a>
+            </div>
+           <ul class="list-group list-group-flush">
+               <li class="nav-item">
+                   <a href="homePage.aspx" class="nav-link active p-3 mb-2 sidebar-link"><i class="fas fa-home"></i> Dashboard </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link p-3 sidebar-link"><i class="fas fa-user-cog"></i> User Management </a>
+                    <ul style="list-style: none;">
+                        <li>
+                            <a href="#" class="nav-link p-1 mb-1 sidebar-link">Add User</a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link p-1 mb-1 sidebar-link">User Details</a>
+                        </li>
+                    </ul>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link p-3 sidebar-link"><i class="fas fa-tasks"></i> Project Management </a>
+                     <ul style="list-style: none;">
+                        <li>
+                            <a href="#" class="nav-link p-1 mb-1 sidebar-link">Add Project</a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link p-1 mb-1 sidebar-link">Project Details</a>
+                        </li>
+                    </ul>
+                 </li>
+           </ul>
+       </div>
+       <div class="main_body">
+           <!-- top nav bar-->
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#e3f2fd;">
+                <button class="navbar-toggler ml-10" type="button" data-toggle="collapse" data-target="#sidebarToggle" aria-controls="sidebarToggle" aria-expanded="false" aria-haspopup="true" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <button class="navbar-toggler mr-9" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                </ul>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                   <asp:LinkButton class="nav-link" ID="LinkButton3" runat="server">Sign Up</asp:LinkButton>
+                    </li>
+                   <li class="nav-item active">
+                   <asp:LinkButton class="nav-link" ID="LinkButton4" runat="server">Logout</asp:LinkButton>
+                    </li>
+                    <li class="nav-item active">
+                   <asp:LinkButton class="nav-link" ID="LinkButton5" runat="server">Hello User</asp:LinkButton>
+                    </li>
+                </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <!--<ul class="navbar-nav my-2 my-lg-0">
+                        <li class="nav-item active">
+                               <a href="#" class="nav-link"><i class="fas fa-sign-in-alt"></i> Sign In </a>
+                        </li>
+                         <li class="nav-item active">
+                            <a href="#" class="nav-link"><i class="fas fa-sign-out-alt"></i> Sign Out </a>
+                         </li>
+                      <li class="nav-item dropdown">
+                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                             Dropdown
+                              </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Profile</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Sign Out</a>
+                                </div>
+                        </li>-->
+                      
+                       <!-- <form class="form-inline">
+                            <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                        </form>-->
+                    </div>
+              </nav>
+        <!-- Main Content Placeholder-->
+        <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server"></asp:ContentPlaceHolder>
+        </div>
+       </div>
+   </div>
+    
+       
+
+        <!-- Footer -->
+  
+  </form>
+</body>
+</html>

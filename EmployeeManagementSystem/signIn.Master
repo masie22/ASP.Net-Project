@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="signIn.master.cs" Inherits="EmployeeManagementSystem.signIn" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <%-- bootstrap css --%>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <%-- datatables css --%>
+    <link href="datatables/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <%-- font css --%>
+    <link href="font/css/all.css" rel="stylesheet" />
+
+    <%-- stylesheet css --%>
+    <link href="css/stylesheet.css" rel="stylesheet" />
+    
+    <%-- jquery--%>
+    <script src="bootstrap/js/jquery-3.5.1.slim.min.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form2" runat="server">
+        <div>
+           <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd";>
+               <a class="navbar-brand" href="#">
+               <img src="images/brand.png" width ="45" height="45" class="rounded ml-4" />  &nbsp; EMSystem
+               </a>
+                
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar01" >
+                <span class="navbar-toggler-icon"></span>
+               </button>
+
+                <div class="collapse navbar-collapse" id="navbar01">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                </ul>
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <asp:LinkButton class="nav-link" ID="LinkButton1" runat="server" ToolTip="Contact Your Admin" OnClick="LinkButton2_Click"> <i class="fas fa-user-plus"></i> Sign Up </asp:LinkButton>
+                   </li>
+                    <li class="nav-item active">
+                        <asp:LinkButton class="nav-link" ID="LinkButton2" runat="server" OnClick="LinkButton2_Click"> <i class="fas fa-sign-in-alt"></i> Login</asp:LinkButton>
+                   </li>
+                   <li class="nav-item active">
+                   <asp:LinkButton class="nav-link" ID="LinkButton4" runat="server" Visible="False"> Logout <i class="fas fa-sign-out-alt"></i> </asp:LinkButton>
+                    </li>
+                    <li class="nav-item active">
+                   <asp:LinkButton class="nav-link" ID="LinkButton5" runat="server" Visible="False">Hello User</asp:LinkButton>
+                    </li>
+                </ul>
+                
+                </div>
+           </nav>
+        </div>
+        <!-- Main Content Placeholder-->
+        <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+
+        <!-- Footer -->
+
+        <footer>
+            <div id="footer" class="container-fluid">
+                <div class="row">
+                    <div class ="col-xs-12 col-sm-12 col-md-12 text-center">
+                       
+                        <p class="text-center font-italic mt-2">
+                           EMSystem <i class="far fa-copyright"></i> All rights reserved. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </form>
+</body>
+</html>
