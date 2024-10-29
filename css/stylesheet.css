@@ -1,0 +1,52 @@
+﻿.main_body {
+    min-width: 0px;
+    width:100%;
+
+}
+
+img{
+    border-radius:50%;
+}
+
+div #Label1 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.sidebar {
+    width: 15rem;
+    min-height: 100vh;
+    background: #e3f2fd;
+    background-size: cover;
+    /*box-shadow: 5px 7px 25px #999;*/
+}
+.list-group{
+    text-decoration-color:black;
+}
+
+
+.sidebar-heading{
+    padding: 6px;
+}
+.sidebar-link {
+    transition: all .4s;
+}
+
+.sidebar-link:hover {
+        background-color: #b7c8e1;
+        border-radius: 5px;
+    }
+
+
+
+
+.footerlinks{
+    text-decoration:none;
+}
+.footerlinks:hover{
+    color:aliceblue;
+}
+#footer {
+    background: #e3f2fd;
+}
+
