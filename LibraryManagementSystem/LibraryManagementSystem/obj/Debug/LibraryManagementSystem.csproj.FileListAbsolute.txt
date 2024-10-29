@@ -1,0 +1,292 @@
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnBooks.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Users.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogIn.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnBooks.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogIn.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\AppData\logindb.mdf
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\AppData\logindb_log.ldf
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\bin\Debug\AppData\logindb.mdf
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\bin\Debug\AppData\logindb_log.ldf
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterationForm.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Users.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnBooks.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogIn.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\AnjaliLMS\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\rasha\Desktop\Anjali Anshul yadav\Semester 4\C#\C# projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnBooks.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogIn.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnBooks.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsers.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(changes)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnBooks.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsers.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\rasha\Desktop\copy project\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsers.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\Downloads\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsers.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\merging\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsers.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLogIn.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\merged pushpa's return12_3\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsers.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentFacultyLogIn.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLoanHistory.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsersForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentFacultyLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLoanHistory.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\LMS_Compiled_Final_12_4\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsersForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentFacultyLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLoanHistory.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutBox.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogIn.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AUDBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPasswordForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueReturnForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LogInForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterUserForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowUsersForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentFacultyLogInForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserLoanHistory.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewAllBooksForm.resources
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Samrachhika\source\C#Project\Group3LibraryManagementSystem(Final)\LibraryManagementSystem(newfile)\LibraryManagementSystem(newfile)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8507A909-7BC8-42C8-8C6F-DD0247708D44}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LibraryManagementSystem</RootNamespace>
+    <AssemblyName>LibraryManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogIn.Designer.cs">
+      <DependentUpon>AdminLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AUDBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AUDBooksForm.Designer.cs">
+      <DependentUpon>AUDBooksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Book.cs" />
+    <Compile Include="Classes\IUser.cs" />
+    <Compile Include="Classes\User.cs" />
+    <Compile Include="Database\AddUserClass.cs" />
+    <Compile Include="Database\BookAccessClass.cs" />
+    <Compile Include="Database\ForgotLogin.cs" />
+    <Compile Include="Database\IssueReturnClass.cs" />
+    <Compile Include="Database\LoginDatabase.cs" />
+    <Compile Include="ForgotPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPasswordForm.Designer.cs">
+      <DependentUpon>ForgotPasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IssueReturnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IssueReturnForm.Designer.cs">
+      <DependentUpon>IssueReturnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LMSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LMSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="logindbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>logindbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="logindbDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>logindbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterUserForm.Designer.cs">
+      <DependentUpon>RegisterUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchBookForm.Designer.cs">
+      <DependentUpon>SearchBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service\AddUserInter.cs" />
+    <Compile Include="Service\BookIntermediaryClass.cs" />
+    <Compile Include="Service\ForgotLoginInter.cs" />
+    <Compile Include="Service\IssueReturnIntermediaryClass.cs" />
+    <Compile Include="Service\Login_inter.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm.Designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LibrarianLogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibrarianLogInForm.Designer.cs">
+      <DependentUpon>LibrarianLogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowUsersForm.Designer.cs">
+      <DependentUpon>ShowUsersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentFacultyLogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentFacultyLogInForm.Designer.cs">
+      <DependentUpon>StudentFacultyLogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserLoanHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserLoanHistory.Designer.cs">
+      <DependentUpon>UserLoanHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAllBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllBooksForm.Designer.cs">
+      <DependentUpon>ViewAllBooksForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogIn.resx">
+      <DependentUpon>AdminLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AUDBooksForm.resx">
+      <DependentUpon>AUDBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPasswordForm.resx">
+      <DependentUpon>ForgotPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IssueReturnForm.resx">
+      <DependentUpon>IssueReturnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LibrarianLogInForm.resx">
+      <DependentUpon>LibrarianLogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterUserForm.resx">
+      <DependentUpon>RegisterUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchBookForm.resx">
+      <DependentUpon>SearchBookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowUsersForm.resx">
+      <DependentUpon>ShowUsersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentFacultyLogInForm.resx">
+      <DependentUpon>StudentFacultyLogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserLoanHistory.resx">
+      <DependentUpon>UserLoanHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAllBooksForm.resx">
+      <DependentUpon>ViewAllBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LMSDataSet.xsc">
+      <DependentUpon>LMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LMSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LMSDataSet.xss">
+      <DependentUpon>LMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="logindbDataSet.xsc">
+      <DependentUpon>logindbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="logindbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>logindbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="logindbDataSet.xss">
+      <DependentUpon>logindbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="logindbDataSet1.xsc">
+      <DependentUpon>logindbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="logindbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>logindbDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="logindbDataSet1.xss">
+      <DependentUpon>logindbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
